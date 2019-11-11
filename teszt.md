@@ -83,4 +83,4 @@ git pull origin master    (úgy hogy az app branchen vagyok)
 d)
 
 
-App branchen belül, git merge upstream, majd conflict megoldás, incoming changes elfogadása.
+App branchen belül, git merge upstream, majd conflict megoldás, incoming changes elfogadása. git add, git commit, git push
