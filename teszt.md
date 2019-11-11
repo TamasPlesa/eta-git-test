@@ -54,6 +54,8 @@ git status
 a)
 
 klónoztam a repot, masterről git checkout app-al léptem át az app branchre.
+
+
 b)
 
 commit aee7423746366c926a15c0f5bd62d8c97586390f
