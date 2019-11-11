@@ -50,8 +50,13 @@ git status
 
 
 2)
-a) klónoztam a repot, masterről git checkout app-al léptem át az app branchre.
-b) commit aee7423746366c926a15c0f5bd62d8c97586390f
+
+a)
+
+klónoztam a repot, masterről git checkout app-al léptem át az app branchre.
+b)
+
+commit aee7423746366c926a15c0f5bd62d8c97586390f
 Author: Mark Zuckerberg <zuck@facebook.com>
 Date:   Fri Nov 8 13:08:59 2019 +0100
 
@@ -68,5 +73,12 @@ Date:   Fri Nov 8 14:10:54 2019 +0100
     Add basic node webapp and instructions to run it
 
 
-c) git pull origin master    (úgy hogy az app branchen vagyok)
-d) App branchen belül, git merge upstream, majd conflict megoldás, incoming changes elfogadása.
+c) 
+
+git pull origin master    (úgy hogy az app branchen vagyok)
+
+
+d)
+
+
+App branchen belül, git merge upstream, majd conflict megoldás, incoming changes elfogadása.
